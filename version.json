@@ -1,4 +1,4 @@
 {
-  "version": "1.0.0",
-  "changes": "Première verson"
+  "version": "1.0.1",
+  "changes": "Added a configuration option requiring a specific item in the inventory to use CarPlay. Added the configuration to the documentation on https://docs.pescripts.com/scripts/pcarplay/inventory-config. The system is configured with QS, QB, and OX"
 }
